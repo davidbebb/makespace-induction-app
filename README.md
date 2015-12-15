@@ -1,5 +1,6 @@
 Makespace induction app
 =======================
+![travis-ci](https://travis-ci.org/davidbebb/makespace-induction-app.svg?branch=master)
 
 ## Synopsis
 
