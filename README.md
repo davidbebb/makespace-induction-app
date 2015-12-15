@@ -13,8 +13,7 @@ Rails app to manage membership induction for Makespace.org
 
 ## Job List
 
-- Add user management via devise
-- set up factory girl users
+- Add user stories and waffle board
 - Add photo handling/Amazon s3
 
 ## To run
