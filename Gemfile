@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 
+gem 'alchemy_cms', '~> 3.2'
+gem 'alchemy-devise', '~> 3.2'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'devise'
 gem 'jbuilder', '~> 2.0'
