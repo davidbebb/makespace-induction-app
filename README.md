@@ -1,7 +1,8 @@
-[![Stories in Ready](https://badge.waffle.io/davidbebb/makespace-induction-app.png?label=ready&title=Ready)](https://waffle.io/davidbebb/makespace-induction-app)
+
 Makespace induction app
 =======================
-![travis-ci](https://travis-ci.org/davidbebb/makespace-induction-app.svg?branch=master) https://travis-ci.org/davidbebb/makespace-induction-app
+[![travis-ci](https://travis-ci.org/davidbebb/makespace-induction-app.svg?branch=master)]( https://travis-ci.org/davidbebb/makespace-induction-app) 
+[![Stories in Ready](https://badge.waffle.io/davidbebb/makespace-induction-app.png?label=ready&title=Ready)](https://waffle.io/davidbebb/makespace-induction-app)
 
 ## Synopsis
 
