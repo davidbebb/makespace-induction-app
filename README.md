@@ -1,7 +1,7 @@
 
 Makespace induction app
 =======================
-[![travis-ci](https://travis-ci.org/davidbebb/makespace-induction-app.svg?branch=master)]( https://travis-ci.org/davidbebb/makespace-induction-app) 
+[![travis-ci](https://travis-ci.org/davidbebb/makespace-induction-app.svg?branch=master)]( https://travis-ci.org/davidbebb/makespace-induction-app)
 [![Stories in Ready](https://badge.waffle.io/davidbebb/makespace-induction-app.png?label=ready&title=Ready)](https://waffle.io/davidbebb/makespace-induction-app)
 
 ## Synopsis
@@ -16,8 +16,8 @@ Rails app to manage membership induction for Makespace.org
 
 ## Job List
 
-- Add user stories and waffle board
-- Add photo handling/Amazon s3
+- Add user stories to waffle board
+
 
 ## To run
 
