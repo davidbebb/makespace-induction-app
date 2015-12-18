@@ -16,8 +16,7 @@ Rails app to manage membership induction for Makespace.org
 
 ## Job List
 
-- Add user stories to waffle board
-
+- See [waffle board](https://waffle.io/davidbebb/makespace-induction-app)
 
 ## To run
 
