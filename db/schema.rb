@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151224163424) do
+ActiveRecord::Schema.define(version: 20160101214250) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -302,6 +302,13 @@ ActiveRecord::Schema.define(version: 20151224163424) do
   add_index "alchemy_users", ["lastname"], name: "index_alchemy_users_on_lastname", using: :btree
   add_index "alchemy_users", ["login"], name: "index_alchemy_users_on_login", unique: true, using: :btree
   add_index "alchemy_users", ["reset_password_token"], name: "index_alchemy_users_on_reset_password_token", unique: true, using: :btree
+
+  create_table "inductions", force: :cascade do |t|
+    t.date     "date"
+    t.integer  "number_of_inductees"
+    t.datetime "created_at",          null: false
+    t.datetime "updated_at",          null: false
+  end
 
   create_table "taggings", force: :cascade do |t|
     t.integer  "tag_id"
