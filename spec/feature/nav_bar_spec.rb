@@ -3,7 +3,7 @@ require 'rails_helper'
 feature 'nav bar' do
   scenario 'should display a nav bar' do
     visit '/'
-    expect(page).to have_css('div#nav_bar')
+    expect(page).to have_css('div#navbarCollapse')
   end
 
   context 'User is logged in' do
